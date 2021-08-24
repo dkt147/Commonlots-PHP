@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.jobyfied.com	TRUE	/	FALSE	1999999999	PHPSESSID	fdc2b31519389bfdc506e0af93c52890
+
